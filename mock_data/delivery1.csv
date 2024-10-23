@@ -1,0 +1,102 @@
+delivery_id,order_id,deliverer_id,delivery_price,order_stat
+1,1,48,6.22,Preparing
+2,2,6,5.02,Received
+3,3,66,6.39,"On the way"
+4,4,23,3.20,Received
+5,5,95,5.33,"On the way"
+6,6,35,4.49,Preparing
+7,7,86,4.26,Preparing
+8,8,93,2.65,"On the way"
+9,9,1,4.00,Preparing
+10,10,72,4.20,Preparing
+11,11,48,5.85,Received
+12,12,80,5.32,Preparing
+13,13,11,5.45,Preparing
+14,14,88,2.58,"On the way"
+15,15,94,6.92,"On the way"
+16,16,32,5.23,Received
+17,17,71,4.07,Preparing
+18,18,3,2.29,Received
+19,19,26,3.88,"On the way"
+20,20,53,5.03,Preparing
+21,21,84,2.64,Received
+22,22,4,6.87,"On the way"
+23,23,67,3.87,"On the way"
+24,24,34,3.72,Preparing
+25,25,99,2.86,Preparing
+26,26,34,2.86,"On the way"
+27,27,13,5.56,Received
+28,28,49,6.98,Preparing
+29,29,88,4.47,Received
+30,30,24,4.20,"On the way"
+31,31,69,6.60,Received
+32,32,8,4.63,"On the way"
+33,33,51,5.60,Preparing
+34,34,4,6.65,Preparing
+35,35,97,2.92,Received
+36,36,43,2.60,Preparing
+37,37,75,5.06,Received
+38,38,5,4.82,"On the way"
+39,39,63,2.94,Preparing
+40,40,56,4.57,"On the way"
+41,41,65,2.39,Preparing
+42,42,40,6.28,"On the way"
+43,43,76,4.86,Received
+44,44,58,2.79,Preparing
+45,45,97,6.19,Received
+46,46,38,4.51,"On the way"
+47,47,80,2.01,Received
+48,48,82,4.54,Preparing
+49,49,95,5.12,Received
+50,50,23,3.49,Received
+51,51,79,2.15,"On the way"
+52,52,15,6.53,Received
+53,53,84,6.62,Received
+54,54,7,3.99,Preparing
+55,55,77,3.33,Received
+56,56,39,4.28,Received
+57,57,100,3.39,"On the way"
+58,58,23,2.80,"On the way"
+59,59,68,4.72,"On the way"
+60,60,58,6.45,"On the way"
+61,61,38,2.07,Preparing
+62,62,21,3.38,Preparing
+63,63,74,2.54,Preparing
+64,64,49,4.83,Received
+65,65,96,5.93,Received
+66,66,26,6.12,Preparing
+67,67,65,4.91,"On the way"
+68,68,42,5.26,"On the way"
+69,69,7,2.79,Received
+70,70,33,2.63,Preparing
+71,71,64,6.89,Preparing
+72,72,5,4.30,Received
+73,73,83,6.65,"On the way"
+74,74,26,4.61,Preparing
+75,75,99,4.75,Preparing
+76,76,25,5.75,"On the way"
+77,77,93,3.48,Preparing
+78,78,32,6.34,Received
+79,79,72,6.08,"On the way"
+80,80,65,5.57,Preparing
+81,81,65,3.06,Preparing
+82,82,37,5.03,"On the way"
+83,83,71,4.94,Received
+84,84,53,5.66,Preparing
+85,85,92,5.09,Preparing
+86,86,33,2.74,Preparing
+87,87,67,3.30,Received
+88,88,81,5.08,"On the way"
+89,89,100,3.83,Received
+90,90,22,4.05,Received
+91,91,27,4.44,Preparing
+92,92,10,4.85,"On the way"
+93,93,86,4.22,"On the way"
+94,94,8,3.54,"On the way"
+95,95,74,6.28,Received
+96,96,38,4.51,"On the way"
+97,97,44,6.18,Received
+98,98,31,3.72,Received
+99,99,23,2.19,Received
+100,100,83,5.03,Received
+101,101,101,3.60,Preparing

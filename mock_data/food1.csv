@@ -1,0 +1,112 @@
+food_id,food_name,food_description,food_price,food_rating,food_remain
+1,"Grilled Chicken","Juicy grilled chicken served with a side of vegetables",12.99,4.50,10
+2,"Chicken Parmesan","Breaded chicken topped with marinara sauce and melted cheese",14.99,4.20,8
+3,"Chicken Alfredo","Creamy pasta dish with grilled chicken and Alfredo sauce",11.99,3.80,12
+4,"Lemon Pepper Chicken","Tender chicken seasoned with zesty lemon pepper",10.99,4.30,15
+5,"Chicken Caesar Salad","Fresh romaine lettuce topped with grilled chicken and Caesar dressing",8.99,4.60,20
+6,"Buffalo Chicken Wings","Crispy chicken wings tossed in spicy buffalo sauce",9.99,4.10,18
+7,"Chicken Fajitas","Sizzling chicken strips served with onions, peppers, and tortillas",13.99,4.40,10
+8,"Honey Mustard Chicken","Grilled chicken glazed with sweet and tangy honey mustard sauce",12.99,3.40,10
+9,"Chicken Stir-Fry","Assorted vegetables and tender chicken stir-fried in a savory sauce",11.99,4.20,12
+10,"Chicken Shawarma","Marinated chicken wrapped in pita bread with garlic sauce",9.99,4.30,15
+11,"Teriyaki Chicken","Grilled chicken glazed with teriyaki sauce and served with rice",12.99,4.40,12
+12,"Chicken Tikka Masala","Tender chicken cooked in a creamy tomato-based sauce",13.99,4.10,10
+13,"BBQ Chicken Pizza","Thin crust pizza topped with BBQ sauce, chicken, and cheese",14.99,4.50,8
+14,"Chicken Enchiladas","Rolled tortillas filled with chicken, cheese, and enchilada sauce",11.99,4.20,12
+15,"Chicken Noodle Soup","Hearty soup with chicken, vegetables, and egg noodles",8.99,4.40,20
+16,"Chicken Satay Skewers","Grilled chicken skewers served with peanut sauce",9.99,4.30,18
+17,"Chicken Fried Rice","Classic fried rice with diced chicken, vegetables, and soy sauce",10.99,4.60,15
+18,"Chicken Caesar Wrap","Grilled chicken, romaine lettuce, and Caesar dressing wrapped in a tortilla",7.99,4.10,25
+19,"Southern Fried Chicken","Crispy fried chicken with a touch of southern spices",12.99,4.50,10
+20,"Chicken Quesadilla","Grilled tortilla filled with chicken, cheese, and peppers",9.99,4.20,15
+21,"Sabzi Polo With Mahi","Salmon with fine iranian rice ",16.99,4.50,10
+22,"Shrimp Scampi","Garlic-infused shrimp sautéed in white wine and butter",14.99,4.30,8
+23,"Lobster Bisque","Creamy soup made with tender lobster meat and aromatic spices",11.99,4.40,12
+24,"Fish and Chips","Crispy battered fish served with fries and tartar sauce",13.99,4.20,15
+25,"Seafood Paella","Traditional Spanish rice dish with a mix of seafood and saffron",18.99,4.60,20
+26,"Garlic Butter Shrimp","Juicy shrimp cooked in a flavorful garlic butter sauce",12.99,2.30,18
+27,"Crab Cakes","Deliciously seasoned crab meat formed into patties and pan-fried",15.99,4.40,10
+28,"Scallops with Bacon","Seared scallops wrapped in crispy bacon",17.99,4.50,10
+29,"Calamari Rings","Lightly breaded and fried calamari rings served with marinara sauce",10.99,4.20,12
+30,"Coconut Shrimp","Jumbo shrimp coated in a crispy coconut breading",13.99,4.30,15
+31,"Clam Chowder","Creamy soup made with clams, potatoes, and herbs",9.99,4.40,12
+32,"Grilled Swordfish","Flavorful swordfish steak marinated and grilled to perfection",16.99,4.10,10
+33,"Stuffed Lobster Tail","Lobster tail filled with a savory seafood stuffing",19.99,4.50,8
+34,"Shrimp Cocktail","Chilled shrimp served with a tangy cocktail sauce",11.99,4.20,12
+35,"Seafood Linguine","Linguine pasta tossed with a variety of seafood in a garlic white wine sauce",15.99,4.30,15
+36,"Ribeye Steak","Juicy and flavorful ribeye steak seasoned and grilled to perfection",22.99,4.50,10
+37,"Filet Mignon","Tender and succulent filet mignon cooked to your preference",26.99,4.70,8
+38,"T-Bone Steak","A classic cut of steak with a T-shaped bone, offering both strip steak and tenderloin",24.99,4.40,12
+39,"New York Strip","A well-marbled and flavorful steak with a rich taste",23.99,4.60,15
+40,"Porterhouse Steak","A large and hearty steak that combines both the strip steak and tenderloin",28.99,4.30,20
+41,"Prime Rib","Slow-roasted prime rib served with au jus and horseradish sauce",25.99,4.80,18
+42,"Steak Frites","Grilled steak served with a side of crispy French fries",19.99,4.20,10
+43,"Pepper Steak","Steak coated with crushed peppercorns and seared to perfection",21.99,4.40,10
+44,"Steak Diane","Tender steak medallions served in a rich and creamy mushroom sauce",24.99,4.50,12
+45,"Chimichurri Steak","Grilled steak topped with a vibrant and tangy chimichurri sauce",20.99,4.30,15
+46,"Spaghetti Bolognese","Classic spaghetti pasta served with rich and flavorful Bolognese sauce",12.99,4.50,10
+47,"Fettuccine Alfredo","Creamy fettuccine pasta tossed in a rich Alfredo sauce",13.99,4.70,8
+48,"Penne Arrabbiata","Penne pasta cooked with spicy tomato sauce and chili flakes",11.99,4.40,12
+49,Lasagna,"Layered pasta dish with meat, cheese, and tomato sauce, baked to perfection",14.99,4.60,15
+50,"Ravioli with Marinara Sauce","Delicate ravioli filled with cheese or meat, served with tangy marinara sauce",13.99,4.30,20
+51,Carbonara,"Classic Italian pasta dish with pancetta, egg, cheese, and black pepper",12.99,4.80,18
+52,"Pesto Pasta","Pasta tossed in a vibrant and aromatic basil pesto sauce",11.99,4.20,10
+53,"Linguine with Clam Sauce","Linguine pasta served with a savory clam sauce",12.99,4.40,10
+54,"Chicken Alfredo Pasta","Grilled chicken and fettuccine pasta tossed in a creamy Alfredo sauce",13.99,4.50,12
+55,"Gnocchi with Gorgonzola Sauce","Soft potato dumplings served with a rich and creamy Gorgonzola sauce",14.99,4.30,15
+56,"Shrimp Scampi","Tender shrimp sautéed in garlic, butter, and white wine, served over pasta",13.99,4.60,10
+57,"Pasta Primavera","Colorful pasta dish loaded with fresh vegetables in a light sauce",12.99,4.20,10
+58,"Baked Ziti","Ziti pasta baked with tomato sauce, cheese, and herbs",13.99,4.40,12
+59,"Lobster Ravioli","Delicious ravioli filled with succulent lobster meat, served with a creamy sauce",14.99,4.50,15
+60,"Cacio e Pepe","Simple yet flavorful pasta dish with pecorino cheese and black pepper",12.99,4.30,10
+61,"Margherita Pizza","Classic pizza topped with tomato sauce, mozzarella cheese, and fresh basil",12.99,4.50,10
+62,"Pepperoni Pizza","Traditional pizza with tomato sauce, mozzarella cheese, and spicy pepperoni",13.99,4.70,8
+63,"Hawaiian Pizza","Pizza topped with tomato sauce, mozzarella cheese, ham, and pineapple",11.99,4.40,12
+64,"BBQ Chicken Pizza","Pizza with tangy BBQ sauce, mozzarella cheese, grilled chicken, and red onions",14.99,4.60,15
+65,"Vegetarian Pizza","Pizza loaded with a variety of fresh vegetables and melted cheese",13.99,4.30,20
+66,"Meat Lovers Pizza","Pizza topped with tomato sauce, mozzarella cheese, pepperoni, sausage, bacon, and ham",12.99,4.80,18
+67,"Mushroom Pizza","Pizza topped with tomato sauce, mozzarella cheese, and a generous amount of mushrooms",11.99,4.20,10
+68,"Four Cheese Pizza","Pizza with a delightful combination of mozzarella, cheddar, feta, and parmesan cheeses",12.99,4.40,10
+69,"Supreme Pizza","Loaded pizza with tomato sauce, mozzarella cheese, pepperoni, and sausage",13.99,4.50,12
+70,"Buffalo Chicken Pizza","Pizza topped with spicy buffalo sauce, mozzarella cheese, grilled chicken, and blue cheese dressing",14.99,4.30,15
+71,"Spinach and Feta Pizza","Pizza with tomato sauce, mozzarella cheese, fresh spinach, and crumbled feta cheese",13.99,4.60,10
+72,"White Pizza","Pizza without tomato sauce, topped with mozzarella cheese, garlic, olive oil, and herbs",12.99,4.20,10
+73,"Chicken Bacon Ranch Pizza","Pizza with ranch dressing, mozzarella cheese, grilled chicken, bacon, and tomatoes",13.99,1.90,12
+74,"Pesto Chicken Pizza","Pizza with basil pesto sauce, mozzarella cheese, grilled chicken, and sun-dried tomatoes",14.99,4.50,15
+75,"Barbecue Bacon Pizza","Pizza topped with barbecue sauce, mozzarella cheese, bacon, red onions, and cilantro",12.99,4.30,10
+76,"Truffle Mushroom Pizza","Pizza with truffle oil, mozzarella cheese, mushrooms, and fresh thyme",13.99,4.60,10
+77,"Sausage and Onion Pizza","Pizza with tomato sauce, mozzarella cheese, Italian sausage, and caramelized onions",11.99,4.20,10
+78,"Buffalo Cauliflower Pizza","Pizza topped with buffalo cauliflower, mozzarella cheese, and blue cheese crumbles",12.99,4.40,12
+79,"Greek Pizza","Pizza with tomato sauce, mozzarella cheese, spinach, olives, feta cheese, and red onions",13.99,4.50,12
+80,"Artichoke and Olive Pizza","Pizza topped with tomato sauce, mozzarella cheese, artichoke hearts, and black olives",14.99,4.30,15
+81,"Classic Cheeseburger","Beef patty topped with melted cheese, lettuce, tomato, onion, and pickles",9.99,4.50,10
+82,"Bacon Cheeseburger","Cheeseburger with crispy bacon strips added for extra flavor",10.99,4.70,8
+83,"Mushroom Swiss Burger","Beef patty topped with sautéed mushrooms and melted Swiss cheese",10.99,4.40,12
+84,"BBQ Burger","Burger with tangy barbecue sauce, cheddar cheese, crispy onion rings, and bacon",11.99,4.60,15
+85,"Spicy Jalapeno Burger","Burger topped with jalapenos, pepper jack cheese, and spicy mayo",10.99,4.30,20
+86,"Double Bacon Cheeseburger","Two beef patties with double the bacon and cheese for a hearty burger",12.99,4.80,18
+87,"Avocado Burger","Burger topped with fresh avocado slices, lettuce, tomato, and garlic aioli",10.99,4.20,10
+88,"Mushroom Swiss Veggie Burger","Vegetarian burger with a mushroom and Swiss cheese topping",10.99,4.40,10
+89,"Western Burger","Burger with barbecue sauce, cheddar cheese, onion rings, and tangy coleslaw",11.99,4.50,12
+90,"Guacamole Bacon Burger","Burger with guacamole, crispy bacon, lettuce, tomato, and chipotle mayo",12.99,2.50,15
+91,"Mozzarella Sticks","Crispy breaded mozzarella sticks served with marinara sauce",7.99,4.50,20
+92,"Chicken Wings","Spicy buffalo wings served with blue cheese dressing and celery sticks",9.99,4.70,15
+93,"Spinach Artichoke Dip","Creamy dip made with spinach, artichoke hearts, and melted cheese",8.99,4.40,12
+94,Nachos,"Tortilla chips topped with melted cheese, jalapenos, salsa, and sour cream",8.99,3.70,15
+95,Bruschetta,"Toasted bread topped with fresh tomatoes, basil, garlic, and balsamic glaze",7.99,4.30,18
+96,"Chicken Satay Skewers","Grilled chicken skewers served with peanut sauce for dipping",9.99,4.80,20
+97,"Stuffed Mushrooms","Mushroom caps filled with a savory mixture of breadcrumbs, cheese, and herbs",8.99,4.20,10
+98,"Potato Skins","Crispy potato skins loaded with melted cheese, bacon, and green onions",8.99,4.40,12
+99,"Fried Calamari","Lightly battered and fried calamari served with marinara sauce and lemon wedges",9.99,4.50,15
+100,"Cheese Quesadilla","Grilled tortilla filled with melted cheese, served with salsa and sour cream",7.99,4.30,20
+101,Chips,"Salty Chips",9.99,4.50,20
+102,"Ceasar Salad","Original Ceasar Salad",8.99,4.20,15
+103,Fries,"Delicious Fries with ketchup",7.99,4.70,18
+104,"Buffalo Wings","Wings covered in sweet sauce",6.99,4.00,12
+105,"Garic Bread","Garlic bread with cheese",5.99,4.80,10
+106,"Mini Sussages","4 mini sauages",4.99,4.60,14
+107,"Mini Pizza","A pizza for when you just want a bite",3.99,4.30,16
+108,Samboose,"A delicious treat from south of Iran",2.99,4.10,19
+109,Olives,"Fine Olives ",1.99,3.10,13
+110,"Spring Rolls","4 chicken spring rolls",0.99,4.40,17
+111,"Israeli Salad","A traditional middle eastern salad aka salad shirazi",3.99,4.95,2
