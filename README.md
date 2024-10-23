@@ -21,7 +21,6 @@ A normalized database design for an online food delivery platform that efficient
 - **Comprehensive Entity Relationships**: Supports multiple entities (customers, restaurants, orders, payments) linked through foreign key constraints
 - **Mock Data**: Includes sample data for testing and development purposes
 - **Scalable Design**: Flexible schema allows future expansion for delivery tracking, reviews, and promotions
-- **Easy Integration**: Seamlessly integrates with any backend system handling food delivery services
 
 ## ✅ Prerequisites
 
@@ -29,7 +28,6 @@ Before setting up the database, ensure you have:
 
 - MySQL 8.0+ or any compatible SQL database engine
 - A SQL client (MySQL Workbench, DBeaver, or phpMyAdmin)
-- Basic knowledge of SQL and relational database design
 
 ## 💡 Usage
 
@@ -136,4 +134,4 @@ WHERE orders.customer_id = 1;
       ...
   ├── Online-Food-Service-Database.sql   # Main schema
   └── README.md                 # Documentation
-
+```
