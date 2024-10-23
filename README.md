@@ -90,6 +90,8 @@ This database design handles:
 - `amount_paid`
 - `payment_date`
 
+And 5 more tables, reaching a total of 11.
+
 ## 📊 Queries and Examples
 
 ### Find Top Restaurants
